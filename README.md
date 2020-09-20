@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Megaman Battle network 6 recreation using Java and Libgdx
 - 📫 How to reach me: Email: farooqiusman2001@gmail.com
 - ⚡ Fun fact: I hate game development but I am pretty good at it
+
 <!-- Thanks for the stuff below rooch (https://github.com/FerruccioSisti/) -->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Chobaka78&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/Chobaka78/github-readme-stats)

@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Chobaka78&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/Chobaka78/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chobaka78&layout=compact&theme=merko)](https://github.com/Chobaka78/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chobaka78&layout=compact&theme=merko)](https://github.com/Chobaka78/github-readme-stats)
